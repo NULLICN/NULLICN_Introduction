@@ -6,7 +6,7 @@ import {
   Link
 } from 'react-router-dom';
 
-function Home() {
+function HomeBak() {
   const [count, setCount] = useState(0)
 
   return (
